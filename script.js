@@ -118,6 +118,8 @@
         margin-left: 20px;
         background-color:var(--white-color);
         border-radius:24px;
+        height:36.5px;
+        
       }
 
       .search-container .search-input {
@@ -145,7 +147,7 @@
       .search-container .search-button {
         color: var(--gray-color);
         font-size: 16px;
-        padding: 10px 28px;
+        padding-inline: 28px;
         cursor: pointer;
         border-bottom-right-radius: 14px;
         border-top-right-radius: 14px;
